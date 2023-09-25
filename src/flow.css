@@ -1,0 +1,13 @@
+/* Style for the container of the ReactFlow component */
+/* Remove this entire block from Flow.css since it's redundant with App.css */
+#react-flow-container {
+    width: 100%;
+    height: calc(100vh - 40px); /* Adjusted height to accommodate the navbar */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    overflow-y: 'auto';
+    /* flex-direction: both; Remove this line */
+  }
+  

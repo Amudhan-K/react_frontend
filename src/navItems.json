@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Engine",
+    "description": "The heart of the car that powers it.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 2,
+    "name": "Transmission",
+    "description": "Responsible for changing gears and transmitting power.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 3,
+    "name": "Brake System",
+    "description": "Responsible for slowing down and stopping the car.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 4,
+    "name": "Headlights",
+    "description": "Front lights for illumination during low light conditions.",
+    "category": "Electrical"
+  },
+  {
+    "id": 5,
+    "name": "Battery",
+    "description": "Provides electrical power to start the car and run accessories.",
+    "category": "Electrical"
+  },
+  {
+    "id": 6,
+    "name": "Tires",
+    "description": "Rubber components that provide traction and support the vehicle.",
+    "category": "Tires & Wheels"
+  },
+  {
+    "id": 7,
+    "name": "Suspension System",
+    "description": "Maintains vehicle stability and handling.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 8,
+    "name": "Exhaust System",
+    "description": "Removes and filters exhaust gases from the engine.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 9,
+    "name": "Radiator",
+    "description": "Cools the engine to prevent overheating.",
+    "category": "Mechanical"
+  },
+  {
+    "id": 10,
+    "name": "Alternator",
+    "description": "Generates electrical power for the car's electrical systems.",
+    "category": "Electrical"
+  },
+  {
+    "id": 11,
+    "name": "Air Conditioning Compressor",
+    "description": "Provides cool air for the cabin.",
+    "category": "Climate Control"
+  },
+  {
+    "id": 12,
+    "name": "Steering Wheel",
+    "description": "Controls the direction of the vehicle.",
+    "category": "Interior"
+  },
+  {
+    "id": 13,
+    "name": "Catalytic Converter",
+    "description": "Reduces harmful emissions from the exhaust.",
+    "category": "Exhaust"
+  },
+  {
+    "id": 14,
+    "name": "Fuel Pump",
+    "description": "Transfers fuel from the tank to the engine.",
+    "category": "Fuel System"
+  },
+  {
+    "id": 15,
+    "name": "Spark Plugs",
+    "description": "Ignites the fuel-air mixture in the engine cylinders.",
+    "category": "Ignition System"
+  },
+  {
+    "id": 16,
+    "name": "Wiper Blades",
+    "description": "Clears rain and debris from the windshield.",
+    "category": "Wipers & Washers"
+  },
+  {
+    "id": 17,
+    "name": "Shock Absorbers",
+    "description": "Absorb and dampen shocks from the road.",
+    "category": "Suspension"
+  },
+  {
+    "id": 18,
+    "name": "Thermostat",
+    "description": "Regulates the engine's operating temperature.",
+    "category": "Cooling System"
+  },
+  {
+    "id": 19,
+    "name": "Oxygen Sensor",
+    "description": "Monitors the oxygen content in the exhaust gases.",
+    "category": "Exhaust"
+  },
+  {
+    "id": 20,
+    "name": "Brake Pads",
+    "description": "Friction material that applies pressure to the brake rotors.",
+    "category": "Brakes"
+  },
+  {
+    "id": 21,
+    "name": "Rearview Mirror",
+    "description": "Provides a view of the rear of the vehicle.",
+    "category": "Interior"
+  },
+  {
+    "id": 22,
+    "name": "Fuel Filter",
+    "description": "Filters impurities from the fuel before reaching the engine.",
+    "category": "Fuel System"
+  },
+  {
+    "id": 23,
+    "name": "Wheel Bearings",
+    "description": "Supports the wheel hub and allows for smooth rotation.",
+    "category": "Tires & Wheels"
+  },
+  {
+    "id": 24,
+    "name": "Ignition Coil",
+    "description": "Generates high voltage for the spark plugs.",
+    "category": "Ignition System"
+  },
+  {
+    "id": 25,
+    "name": "A/C Condenser",
+    "description": "Removes heat from the air conditioning refrigerant.",
+    "category": "Climate Control"
+  },
+  {
+    "id": 26,
+    "name": "Power Steering Pump",
+    "description": "Assists with steering by pressurizing power steering fluid.",
+    "category": "Steering"
+  },
+  {
+    "id": 27,
+    "name": "Tail Lights",
+    "description": "Rear lights for signaling and visibility.",
+    "category": "Electrical"
+  },
+  {
+    "id": 28,
+    "name": "Drive Belt",
+    "description": "Transmits power from the engine to various components.",
+    "category": "Belts & Hoses"
+  },
+  {
+    "id": 29,
+    "name": "Air Filter",
+    "description": "Filters air entering the engine for combustion.",
+    "category": "Filters"
+  },
+  {
+    "id": 30,
+    "name": "CV Joints",
+    "description": "Connects the transmission to the wheel axles.",
+    "category": "Drivetrain"
+  },
+  {
+    "id": 31,
+    "name": "Cruise Control Module",
+    "description": "Maintains a constant speed set by the driver.",
+    "category": "Electrical"
+  },
+  {
+    "id": 32,
+    "name": "Fuel Tank",
+    "description": "Stores and supplies fuel to the engine.",
+    "category": "Fuel System"
+  },
+  {
+    "id": 33,
+    "name": "Radiator Fan",
+    "description": "Cools the radiator by circulating air.",
+    "category": "Cooling System"
+  },
+  {
+    "id": 34,
+    "name": "Starter Motor",
+    "description": "Engages the engine to start the car.",
+    "category": "Electrical"
+  },
+  {
+    "id": 35,
+    "name": "Clutch Kit",
+    "description": "Engages and disengages the engine from the transmission.",
+    "category": "Clutch"
+  },
+  {
+    "id": 36,
+    "name": "Ball Joints",
+    "description": "Connects the control arms to the steering knuckles.",
+    "category": "Suspension"
+  },
+  {
+    "id": 37,
+    "name": "Axle Shafts",
+    "description": "Transmits power from the differential to the wheels.",
+    "category": "Drivetrain"
+  },
+  {
+    "id": 38,
+    "name": "Ignition Switch",
+    "description": "Turns the electrical system on and off.",
+    "category": "Electrical"
+  },
+  {
+    "id": 39,
+    "name": "Hood",
+    "description": "Covers the engine compartment.",
+    "category": "Body Parts"
+  },
+  {
+    "id": 40,
+    "name": "Exhaust Manifold",
+    "description": "Collects exhaust gases from the engine cylinders.",
+    "category": "Exhaust"
+  },
+  {
+    "id": 41,
+    "name": "Drive Shaft",
+    "description": "Transmits power from the transmission to the differential.",
+    "category": "Drivetrain"
+  },
+  {
+    "id": 42,
+    "name": "Brake Calipers",
+    "description": "Applies pressure to the brake pads to stop the car.",
+    "category": "Brakes"
+  },
+  {
+    "id": 43,
+    "name": "Fuel Pressure Regulator",
+    "description": "Controls the fuel pressure in the fuel system.",
+    "category": "Fuel System"
+  },
+  {
+    "id": 44,
+    "name": "Serpentine Belt",
+    "description": "Drives multiple engine accessories.",
+    "category": "Belts & Hoses"
+  },
+  {
+    "id": 45,
+    "name": "Windshield",
+    "description": "Provides a view of the road ahead.",
+    "category": "Body Parts"
+  },
+  {
+    "id": 46,
+    "name": "EGR Valve",
+    "description": "Recirculates exhaust gas to reduce emissions.",
+    "category": "Exhaust"
+  },
+  {
+    "id": 47,
+    "name": "Ignition Control Module",
+    "description": "Controls ignition timing and spark.",
+    "category": "Ignition System"
+  },
+  {
+    "id": 48,
+    "name": "Shock Mounts",
+    "description": "Attaches shock absorbers to the vehicle frame.",
+    "category": "Suspension"
+  },
+  {
+    "id": 49,
+    "name": "Intake Manifold",
+    "description": "Distributes air to the engine cylinders.",
+    "category": "Intake"
+  },
+  {
+    "id": 50,
+    "name": "Window Regulator",
+    "description": "Raises and lowers the window glass.",
+    "category": "Interior"
+  }
+]

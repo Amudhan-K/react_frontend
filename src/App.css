@@ -1,0 +1,23 @@
+/* Style for the container of the ReactFlow component */
+#react-flow-container {
+  width: 100%;
+  height: calc(100vh - 40px); /* Adjusted height to accommodate the navbar */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto;
+}
+
+/* Style for the nodes */
+.react-flow__node {
+  background-color: #e9e4dc; /* Orange color for nodes */
+  color: rgb(24, 23, 23);
+  padding: 10px;
+  border-radius: 4px;
+  margin: 0 5px; /* Adjusted margin for node spacing */
+}
+
+/* Style for the edges */
+.react-flow__edge-path path {
+  stroke: #89652f; /* Orange color for edges */
+}

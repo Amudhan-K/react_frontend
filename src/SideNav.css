@@ -1,0 +1,28 @@
+/* SideNav.css */
+.side-nav {
+  background-color: #e0d8d8;
+  color: #0f0e0e;
+  width: 250px; /* Set a fixed width or use a percentage if desired */
+  /* height: 100%; Remove this line */
+  /* position: fixed; Remove this line */
+  /* top: 15%; Remove this line */
+  /* left: 0; Remove this line */
+  overflow-y: auto;
+  z-index: 2; /* Adjust the value as needed */
+}
+
+.side-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.side-nav li {
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.side-nav li:hover {
+  background-color: #555;
+}

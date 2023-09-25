@@ -1,0 +1,24 @@
+/* NavBar.css */
+
+.navbar {
+  background-color: #252627;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+.navbar-logo img {
+  margin-right: 14px;
+}
+
+.navbar-text {
+  font-size: 26px;
+  font-family: cursive;
+}
+
+.navbar1-text {
+  font-size: 8px;
+  /* align-items: right; */
+  text-align: end;
+}
